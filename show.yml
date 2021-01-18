@@ -1,0 +1,11 @@
+---
+  - hosts: ac01
+    
+    tasks:
+    - name: test
+      debug:
+        msg: "Hi!"
+
+
+    
+
